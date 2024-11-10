@@ -2,6 +2,4 @@ It contains a project on bisleri water whuch is made using MURAL TOOL .The Bisle
        artistic expression with the company’s core values of purity, health, and sustainability. 
        
        
-       The mural, strategically placed in a high-  traffic area, served as both a marketing tool and a visual representation of the brand's connection to Indian culture. This case    
-       study highlights the growing trend of using public art and out-of-home advertising to create immersive brand experiences and   
-       reinforce brand messaging in a creative, memorable way
+      
